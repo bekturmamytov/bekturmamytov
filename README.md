@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @bekturmamytov
-- 👀 I’m interested in iOS Development.
-- 🌱 I’m currently learning Swift.
-- 📫 How to reach me bekturmamytov@gmail.com
+# Bektur Mamytov - iOS Developer
 
-<!---
-bekturmamytov/bekturmamytov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm Bektur Mamytov, an iOS developer with a passion for creating amazing mobile applications that improve people's lives. I'm currently learning Swift and building my skills in iOS development, and I'm excited to collaborate with others on new and innovative projects.
+
+## Skills
+- Languages: Swift, Objective-C
+- Tools: Xcode, Git
+- Frameworks: UIKit, SwiftUI, Core Data
+
+## Contact
+If you're interested in collaborating on a project or just want to say hi, you can reach me at bekturmamytov@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/bekturmamytov/) and [Twitter](https://twitter.com/bekturmamytov).
